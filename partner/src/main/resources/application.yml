@@ -1,0 +1,2 @@
+rate-url: "rate-service:8080"
+limit-url: "limit-service:8080"
